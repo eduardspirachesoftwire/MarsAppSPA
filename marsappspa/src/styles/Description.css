@@ -1,0 +1,17 @@
+.image {
+    width: 60vh;
+    border-radius: 1vh;
+    background: #FFFFFF;
+    padding: 5px;
+}
+
+.description {
+    background-color: #282c34;
+    padding-top: 6vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}

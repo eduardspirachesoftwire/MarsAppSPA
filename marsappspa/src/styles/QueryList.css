@@ -1,0 +1,11 @@
+.query-list {
+    width: 100%;
+    display: flex;
+    max-width: 60vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2vh;
+}
+
+
